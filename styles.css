@@ -1,0 +1,17 @@
+.sidebar {
+	flex-basis: 20%;
+	overflow-y: scroll;
+	padding: 2em;
+}
+
+.content {
+	flex-basis: 80%;
+	overflow-y: scroll;
+	padding-left: 0em 10em;
+}
+
+body {
+	display: flex;
+	margin: 0;
+	height: 100vh;
+}
